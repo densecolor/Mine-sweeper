@@ -1,0 +1,27 @@
+\\rohan\K\andonoff\Documents\VB\Projet\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.FormDemineur.resources
+\\rohan\K\andonoff\Documents\VB\Projet\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.Resources.resources
+\\rohan\K\andonoff\Documents\VB\Projet\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.vbproj.GenerateResource.Cache
+\\rohan\K\andonoff\Documents\VB\Projet\Demineur\Demineur\Demineur\bin\Debug\Demineur.exe
+\\rohan\K\andonoff\Documents\VB\Projet\Demineur\Demineur\Demineur\bin\Debug\Demineur.pdb
+\\rohan\K\andonoff\Documents\VB\Projet\Demineur\Demineur\Demineur\bin\Debug\Demineur.xml
+\\rohan\K\andonoff\Documents\VB\Projet\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.exe
+\\rohan\K\andonoff\Documents\VB\Projet\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.xml
+\\rohan\K\andonoff\Documents\VB\Projet\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.pdb
+Q:\学习资料Master1 s2\programmation\projet\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.exe
+Q:\学习资料Master1 s2\programmation\projet\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.xml
+Q:\学习资料Master1 s2\programmation\projet\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.pdb
+Q:\学习资料Master1 s2\programmation\projet\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.FormDemineur.resources
+Q:\学习资料Master1 s2\programmation\projet\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.Resources.resources
+Q:\学习资料Master1 s2\programmation\projet\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.vbproj.GenerateResource.Cache
+Q:\学习资料Master1 s2\programmation\projet\Demineur\Demineur\Demineur\bin\Debug\Demineur.exe
+Q:\学习资料Master1 s2\programmation\projet\Demineur\Demineur\Demineur\bin\Debug\Demineur.pdb
+Q:\学习资料Master1 s2\programmation\projet\Demineur\Demineur\Demineur\bin\Debug\Demineur.xml
+C:\Users\X1-Carbon\Desktop\stage\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.exe
+C:\Users\X1-Carbon\Desktop\stage\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.xml
+C:\Users\X1-Carbon\Desktop\stage\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.pdb
+C:\Users\X1-Carbon\Desktop\stage\Demineur\Demineur\Demineur\bin\Debug\Demineur.exe
+C:\Users\X1-Carbon\Desktop\stage\Demineur\Demineur\Demineur\bin\Debug\Demineur.pdb
+C:\Users\X1-Carbon\Desktop\stage\Demineur\Demineur\Demineur\bin\Debug\Demineur.xml
+C:\Users\X1-Carbon\Desktop\stage\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.FormDemineur.resources
+C:\Users\X1-Carbon\Desktop\stage\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.Resources.resources
+C:\Users\X1-Carbon\Desktop\stage\Demineur\Demineur\Demineur\obj\x86\Debug\Demineur.vbproj.GenerateResource.Cache
